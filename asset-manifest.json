@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TypeScript-Snake/static/css/main.79b76071.chunk.css",
+    "main.js": "/TypeScript-Snake/static/js/main.100e34fc.chunk.js",
+    "main.js.map": "/TypeScript-Snake/static/js/main.100e34fc.chunk.js.map",
+    "runtime-main.js": "/TypeScript-Snake/static/js/runtime-main.3c1e467f.js",
+    "runtime-main.js.map": "/TypeScript-Snake/static/js/runtime-main.3c1e467f.js.map",
+    "static/js/2.681ac5ec.chunk.js": "/TypeScript-Snake/static/js/2.681ac5ec.chunk.js",
+    "static/js/2.681ac5ec.chunk.js.map": "/TypeScript-Snake/static/js/2.681ac5ec.chunk.js.map",
+    "static/js/3.9ee52fb8.chunk.js": "/TypeScript-Snake/static/js/3.9ee52fb8.chunk.js",
+    "static/js/3.9ee52fb8.chunk.js.map": "/TypeScript-Snake/static/js/3.9ee52fb8.chunk.js.map",
+    "index.html": "/TypeScript-Snake/index.html",
+    "static/css/main.79b76071.chunk.css.map": "/TypeScript-Snake/static/css/main.79b76071.chunk.css.map",
+    "static/js/2.681ac5ec.chunk.js.LICENSE.txt": "/TypeScript-Snake/static/js/2.681ac5ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c1e467f.js",
+    "static/js/2.681ac5ec.chunk.js",
+    "static/css/main.79b76071.chunk.css",
+    "static/js/main.100e34fc.chunk.js"
+  ]
+}
